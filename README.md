@@ -1,7 +1,6 @@
-# expense-tracker
-_Expense-tracker is a project built to keep track of daily expenditures and income._
+# SpendWise(expense-tracker)
+SpendWise is a project built to keep track of daily expenditures and income._
 
-**Link to the website:** [https://income-expense-trackerr.000webhostapp.com/](https://income-expense-trackerr.000webhostapp.com/)
 <br/>
 
 
